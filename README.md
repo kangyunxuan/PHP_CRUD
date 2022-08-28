@@ -4,6 +4,10 @@
 XAMPP
 
 ## 操作
+
+1. 到XAMPP control 開啟 Apache和MySQL
+![image](https://user-images.githubusercontent.com/47325867/187081685-18981d98-c7e2-4eba-9c48-df935ca56fe2.png)
+
 STEP 1: 到 http://localhost/phpmyadmin/index.php 登入  
 
 
